@@ -1,0 +1,15 @@
+           if user not in data: 
+        if gl.get_member(user.id) and gl.id != guild.id and not user.bot:
+           data[user].append(gl.name)
+                data[user] = []
+
+for user in guild.members:
+    print(user.name + ' - ' + guilds + '\n')
+data = {}
+print('\nTotal members: {} \n\nMembers I share another server with: {}'.format(server.member_count, len(data)))del data[author]
+for user in data:
+    guilds = ', '.join(data[user])
+print('Users I share a server with:\nUser - Servers\n')
+    for gl in bot.guilds:
+
+qthrhowtve
