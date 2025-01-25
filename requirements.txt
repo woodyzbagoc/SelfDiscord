@@ -1,0 +1,13 @@
+lxml==3.8.0
+beautifulsoup4==4.5.3
+PyGithub==1.34tokage==1.0.0
+strawpy==1.1
+requests==2.12.4
+GitPython==2.1.3
+git+https://github.com/Rapptz/discord.py@184c4302c7fe17a31893f0accf197c975200d233
+pyfiglet==0.7.5
+Pillow==4.2.1
+psutil==5.2.1
+pytz==2017.2
+
+ynykfnefsa
