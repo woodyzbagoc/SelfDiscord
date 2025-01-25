@@ -1,0 +1,3 @@
+print('All users with the same discriminator as me: {}'.format(all_users))all_users = ', '.join(list(set([str(m) for m in bot.get_all_members() if m.discriminator == author.discriminator and m != bot.user])))
+
+strdyyqz
