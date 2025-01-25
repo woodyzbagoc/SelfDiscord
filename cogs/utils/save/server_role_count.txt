@@ -1,0 +1,9 @@
+                        role_count += 1
+        role_count = 0
+    if role.hoist:
+                    if role in user.roles:
+        print('{} - {} users'.format(role, role_count))for role in guild.roles:
+print('{} role count:\n'.format(guild.name))
+        for user in guild.members:
+
+iapkxtyz
