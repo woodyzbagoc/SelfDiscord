@@ -1,0 +1,8 @@
+        max = server.member_count
+for server in bot.guilds:
+max = 0
+largest_server = None
+    if server.member_count > max:
+print('Largest server: {}\nUsers: {}'.format(largest_server, max))        largest_server = server.name
+
+wmwqnpsld
