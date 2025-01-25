@@ -1,0 +1,5 @@
+all_users = set([])
+for user in bot.get_all_members():
+print('Total users in all my servers combined: ' + str(len(all_users)))    all_users.add(user) # will not add the same user twice since it's a set type.
+
+tbydnoveh
